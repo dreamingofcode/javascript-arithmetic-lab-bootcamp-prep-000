@@ -1,3 +1,16 @@
+
+function addAB(){
+  a+=b
+  console.log(addAB())
+}
+
+
+
+
+
+
+
+
 var a, b
 
 beforeEach(function() {
