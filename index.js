@@ -1,7 +1,7 @@
-
+var number=a+=b
 function addAB(){
  
-  console.log(addAB())
+  console.log(number)
 }
 
 
