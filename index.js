@@ -26,4 +26,6 @@ function makeInt(a){
   return parseInt(a)
 }
 
-function 
+function makeInt('0x2328'){
+  return parseInt('0x2328,10')
+}
