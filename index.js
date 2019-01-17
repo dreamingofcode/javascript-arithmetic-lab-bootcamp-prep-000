@@ -12,7 +12,9 @@ function multiply(a,b){
 
 function divide(a,b){
   return a/b
-}function inc(a){
+}
+
+function inc(a){
   return a+1
 }
 
