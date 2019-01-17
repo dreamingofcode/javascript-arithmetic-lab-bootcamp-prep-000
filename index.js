@@ -30,5 +30,7 @@ function makeInt(a){
   return parseInt(a,10)
 }
 
-function (isNaN(makeInt('sldkjflksjf'))).toEqual(true)
+function makeInt(a){
+  return parseFloat(a,10)
+}
 
