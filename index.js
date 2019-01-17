@@ -27,5 +27,5 @@ function makeInt(a){
 }
 
 function makeInt(a){
-  return parseInt('0x2328',10)
+  return parseInt(a,10)
 }
